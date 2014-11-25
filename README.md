@@ -1,4 +1,4 @@
-books
+Books I’ve finished recently
 =====
 
-Books I’ve finished recently
+This repository contains book notes for books I've finished recently.
